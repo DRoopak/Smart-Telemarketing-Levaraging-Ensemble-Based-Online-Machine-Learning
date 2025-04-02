@@ -1,0 +1,2 @@
+# Smart-Telemarketing-Levaraging-Ensemble-Based-Online-Machine-Learning
+Developed an IEEE-published ML model predicting telemarketing success using Python and Scikit-learn. Applied feature engineering, classification models (Logistic Regression, Decision Trees, Random Forest, XGBoost), and hyperparameter tuning. Built interactive visualizations with Matplotlib &amp; Seaborn. Deployed via FastAPI as a web service.
